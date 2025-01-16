@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\private\\json\\e3dsjsonobject.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\intermediate\\build\\win64\\x64\\testprojectmpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\e3dsfeatures\\definitions.e3dsfeatures.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3dsjsonobject.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3dsjsonobject.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\e3dsfeaturesdefines.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3dsjsonvalue.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3dsjsonvalue.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

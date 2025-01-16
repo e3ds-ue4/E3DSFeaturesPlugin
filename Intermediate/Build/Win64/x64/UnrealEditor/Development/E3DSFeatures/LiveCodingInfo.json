@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.E3DSFeatures.cpp.obj": [
+			"E3DSFeatures.init.gen.cpp.obj",
+			"E3DSJsonObject.gen.cpp.obj",
+			"E3DSJsonValue.gen.cpp.obj",
+			"E3DS_ClientAPI.gen.cpp.obj",
+			"E3DS_Features_Library.gen.cpp.obj",
+			"E3DS_Function_Library.gen.cpp.obj",
+			"E3DS_JsonDecoder.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"E3DSFeatures.cpp.obj",
+			"E3DS_ClientAPI.cpp.obj",
+			"E3DSJsonObject.cpp.obj",
+			"E3DSJsonValue.cpp.obj",
+			"E3DS_JsonDecoder.cpp.obj",
+			"E3DS_Function_Library.cpp.obj"
+		]
+	}
+}

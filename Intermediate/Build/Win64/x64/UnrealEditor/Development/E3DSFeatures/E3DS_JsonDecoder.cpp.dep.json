@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\private\\json\\e3ds_jsondecoder.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\intermediate\\build\\win64\\x64\\testprojectmpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\e3dsfeatures\\definitions.e3dsfeatures.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3ds_jsondecoder.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3dsjsonobject.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3dsjsonobject.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\library\\e3ds_features_library.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3ds_features_library.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3ds_jsondecoder.generated.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

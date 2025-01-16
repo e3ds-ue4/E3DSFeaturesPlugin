@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\private\\e3ds_clientapi.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\intermediate\\build\\win64\\x64\\testprojectmpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\e3dsfeatures\\definitions.e3dsfeatures.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\e3ds_clientapi.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\library\\e3ds_features_library.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3dsjsonobject.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3dsjsonobject.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3ds_features_library.generated.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\engine\\public\\net\\onlineblueprintcallproxybase.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "c:\\unreale3dsversion\\ue55\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\onlineblueprintcallproxybase.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3ds_clientapi.generated.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\e3dsfeaturesdefines.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\source\\e3dsfeatures\\public\\json\\e3ds_jsondecoder.h",
+            "e:\\unrealprojects\\mortezatestproject\\plugin55\\testprojectmp\\plugins\\e3dsfeautres\\intermediate\\build\\win64\\unrealeditor\\inc\\e3dsfeatures\\uht\\e3ds_jsondecoder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
