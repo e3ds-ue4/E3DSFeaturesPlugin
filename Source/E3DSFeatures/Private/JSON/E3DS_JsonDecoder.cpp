@@ -8,6 +8,22 @@
 FServerInfo UE3DS_JsonDecoder::DecodeRequestedNewServerInfo(UE3DSJsonObject* response)
 {
 	FServerInfo TempResultStruct;
+
+	if (response == nullptr)
+	{
+		// Handle the nullptr case by assigning default or invalid values
+		TempResultStruct.ServerAppName = "Invalid";
+		TempResultStruct.ServerMapName = "Invalid";
+		TempResultStruct.IP_Address = "0.0.0.0";
+		TempResultStruct.Port = -1;
+		TempResultStruct.CurrentPlayer = -1;
+		TempResultStruct.MaxPlayer = -1;
+
+		// Optionally log an error
+		UE_LOG(LogTemp, Warning, TEXT("DecodeRequestedNewServerInfo: Response is null."));
+		return TempResultStruct;
+	}
+
 	
 	
 	UE3DSJsonObject* DataObj = !(response->HasField("data")) ? nullptr : response->GetObjectField("data");
