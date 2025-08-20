@@ -7,11 +7,26 @@
 	"Category": "Other",
 	"CreatedBy": "Eagle 3D Streaming",
 	"CreatedByURL": "https://www.eagle3dstreaming.com/",
-	"DocsURL": "https://docs.eagle3dstreaming.com/wiki/getting-started-with-multiplayer-streaming",
-	"MarketplaceURL": "",
+	"DocsURL": "https://docs.eagle3dstreaming.com/wiki/e3ds-pixel-streaming-features-plugin-documentation",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/bb332828-98f1-456e-a0d2-11ede12c0bce",
 	"SupportURL": "https://www.eagle3dstreaming.com/",
+	"EngineVersion": "5.6.0",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": true,
+	"PlatformAllowList": ["Win64"],
+	"Modules": [
+		{
+			"Name": "E3DSFeatures",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": ["Win64"]
+		}
+	],
+		"Plugins":[
+			{
+			"Name": "PixelStreaming",
+			"Enabled": true
+			}
+
+	]
 }
