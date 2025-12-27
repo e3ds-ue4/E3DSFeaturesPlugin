@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 3,
+	"VersionName": "1.2",
 	"FriendlyName": "E3DSFeatures",
 	"Description": "https://www.eagle3dstreaming.com/",
 	"Category": "Other",
@@ -10,7 +10,7 @@
 	"DocsURL": "https://docs.eagle3dstreaming.com/wiki/e3ds-pixel-streaming-features-plugin-documentation",
 	"FabURL": "com.epicgames.launcher://ue/Fab/product/bb332828-98f1-456e-a0d2-11ede12c0bce",
 	"SupportURL": "https://www.eagle3dstreaming.com/",
-	"EngineVersion": "5.6.0",
+	"EngineVersion": "5.3.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"PlatformAllowList": ["Win64"],
